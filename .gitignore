@@ -1,0 +1,11 @@
+*.csv
+*.png
+dbdata/
+*.class
+build
+logout
+.vscode/
+db_data_rocksdb/
+rocksdb-smallbank/
+*diffs.txt
+results/
